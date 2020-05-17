@@ -1,0 +1,24 @@
+{
+  "name": "my-fullpage-animation-gsap",
+  "version": "1.0.0",
+  "description": "- fullpage - gsap (TimelineMax, TweenMax) (https://greensock.com/gsap/)",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhattruongniit/my-fullpage-animation-gsap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhattruongniit/my-fullpage-animation-gsap/issues"
+  },
+  "homepage": "https://github.com/nhattruongniit/my-fullpage-animation-gsap"
+}
