@@ -1,4 +1,4 @@
 # FULLPAGE ANIMATION WITH GSAP
 
-- fullpage
+- fullpage (https://alvarotrigo.com/fullPage/)
 - gsap (TimelineMax, TweenMax) (https://greensock.com/gsap/)
